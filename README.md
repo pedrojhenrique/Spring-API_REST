@@ -6,7 +6,7 @@ API Rest básica utilizando Java com Spring Boot, MySQL, Postman e DbVizualizer.
 
 * Conexão do DbVisualizer com o MySQL 
 * Criação de um projeto Spring Boot
-* Excecução de API usando o navegador
+* Execução de API usando o navegador
 * Conexão como banco de dados MySQL
 * Criação de API Rest interagindo com o Banco de Dados
   * Consultar
